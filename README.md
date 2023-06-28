@@ -6,7 +6,8 @@
 Read in image taken with any kind of vis (RGB) camera to analyze shape, color, size, and more properties. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-v4-VIS-single-plant/HEAD?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-v4-multiobject/HEAD?labpath=index.ipynb)
+
 
 
 ## Tutorial tags/keywords
